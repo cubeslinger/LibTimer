@@ -1,0 +1,13 @@
+Identifier  =  "LibTimer"
+Name        =  { English = "LibTimer" }
+NameShort   =  "LibTimer"
+Version     =  "0.2"
+Description =  { English = "LibTimer" }
+Author      =  "marcob@marcob.org"
+Website     =  "https://github.com/cubeslinger/LibTimer"
+Email       =  "marcob@marcob.org"
+Environment =  "4.0"
+
+RunOnStartup = {
+   "LibTimer.lua",
+}
