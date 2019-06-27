@@ -1,13 +1,8 @@
-RIFT - MaNo
+RIFT - LibTimer
 
-Map Notes
+Library to create timers in RIFT
 
 snailtail@typhiria
 
-25/05/2019
-
-Dependencies:
-
- - __mapnotes : https://github.com/cubeslinger/__mapnotes/archive/master.zip
- - __menus    : https://github.com/cubeslinger/__menus/archive/master.zip
+26/06/2019
 
